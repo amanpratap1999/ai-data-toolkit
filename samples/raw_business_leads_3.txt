@@ -1,0 +1,28 @@
+[SCRAPED_CHUNK_01]
+Company: Peak Performance Physio Clinic
+Contact: Dr. Sarah Lin, DPT (Clinical Director)
+Address: 1420 Walnut Street, Suite 310, Philadelphia PA
+Phone: +1 215 555 7821 | Direct Fax: 215 555 7829
+Website: https://www.peakphysiophilly.com
+Email inquiry: frontdesk@peakphysiophilly.com; drlin@peakphysiophilly.com
+Specialties: Sports rehab, dry needling, post-op knee recovery.
+Accepting New Patients: Yes (Aetna, BlueCross, Medicare)
+
+---
+[SCRAPED_CHUNK_02]
+Elevate Dental Studio // Dr. Kevin Thorne DDS
+300 Pine Ridge Ave, Denver CO 80202
+Questions? Call us at (303) 555-4491 or shoot an email to smile@elevatedentaldenver.com
+Office Hours: M-Th 8am-5pm, Fri 8am-1pm.
+Key Services: Cosmetic veneers, Invisalign, Pediatric dentistry, emergency crowns.
+Insurance: Out of network for Medicaid, PPO provider.
+
+---
+[SCRAPED_CHUNK_03]
+Beacon Legal Partners LLP
+Attorneys: Arthur Pendelton, Esq. & Maya Vance
+Offices in Boston MA: 88 Commonwealth Ave FL 4 (02116)
+Switchboard: (617) 555-3000 | Emergency Hotline: 617-555-3009
+Emails: contact@beaconlegalpartners.com, arthur@beaconlegal.com
+Practice Areas: Commercial real estate, IP trademarks, Series A/B founder agreements.
+Consultation fee: $350 initial retainer credited towards billable hours.

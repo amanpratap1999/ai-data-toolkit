@@ -1,0 +1,37 @@
+==================================================
+                 APEX INDUSTRIAL LOGISTICS LLC
+         492 West Horizon Way, Suite 400, Austin, TX 78701
+           Phone: (512) 883-9120 | accounts@apexlogistics.io
+==================================================
+
+INVOICE STATEMENT #INV-2026-8819B
+Issue Date: 12 October 2026
+Due Date: Net 30 (November 11, 2026)
+Payment Terms: Wire / ACH / PayPal to payments@apexlogistics.io
+
+BILLED TO:
+  Global Freight Dynamics Inc.
+  Attn: Marcus Vance (Supply Chain Operations)
+  710 Commercial Blvd, Building C
+  Chicago, IL 60607
+  Email: mvance@gfdynamics.com
+
+DESCRIPTION OF SERVICES / PRODUCTS DELIVERED:
+---------------------------------------------------------------------------------
+Item 1: Heavy Machinery Crating & Moisture Barrier Seal
+Qty: 4 units @ $450.00 each ............................... Subtotal: $1,800.00
+Item 2: Expedited Intermodal Freight Transit (ORD to AUS)
+Qty: 1 flat-rate container ................................ Subtotal: $2,450.00
+Item 3: Terminal Handling & Warehouse Staging Fee
+Qty: 12 hours @ $65.00/hr ................................. Subtotal: $780.00
+Item 4: Hazmat Compliance Inspection Certificate
+Qty: 1 certification ...................................... Subtotal: $150.00
+---------------------------------------------------------------------------------
+TOTAL RAW CHARGES: $5,180.00
+Volume Discount (Contract Tier 2, -5%): -$259.00
+State Transportation Surcharge (4.25%): $209.14
+
+FINAL BALANCE DUE: $5,130.14 USD
+
+Remittance Note: Please reference INV-2026-8819B on all electronic remittances.
+Late fee of 1.5% applies after 30 days past due.

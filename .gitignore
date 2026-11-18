@@ -1,0 +1,23 @@
+# Environment variables (Never commit API keys)
+.env
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+
+# Local run outputs
+output/
+
+# Ignore loose spreadsheets but preserve portfolio showcase and samples
+*.xlsx
+*.csv
+!portfolio_showcase/*.xlsx
+!portfolio_showcase/*.csv
+!samples/*.csv
+!samples/*.xlsx
