@@ -14,22 +14,39 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-gray?style=flat-square)](LICENSE)
 
 <p align="center">
+  <a href="#-live-product-demonstration">Live Demo</a> •
   <a href="#-why-clients-hire-this-pipeline">Why Clients Hire</a> •
   <a href="#-end-to-end-architecture">Architecture</a> •
   <a href="#-key-features">Key Features</a> •
   <a href="#-visual-before--after-showcase">Before &amp; After</a> •
   <a href="#-quickstart-in-60-seconds">60s Quickstart</a> •
-  <a href="#-commercial-services--hire-me">Commercial Services</a> •
-  <a href="final_ai_data_toolkit_demo.mp4"><b>▶️ Watch Video (90s)</b></a>
+  <a href="#-commercial-services--hire-me">Commercial Services</a>
 </p>
 
 ---
 
 </div>
 
+## 🎬 Live Product Demonstration
+
+<div align="center">
+
+<img src="assets/demo_walkthrough.gif" width="100%" alt="AI Data Toolkit Live Product Walkthrough" />
+
+<p align="center">
+  <b>⚡ Live Software Walkthrough:</b> Raw Unstructured Input ➔ Fast Cloud-Streamed Run ➔ Formula-Backed Excel Deliverable
+</p>
+
+<a href="https://github.com/amanpratap1999/ai-data-toolkit/releases/download/v1.0.0/final_ai_data_toolkit_demo.mp4">
+  <img src="https://img.shields.io/badge/▶%EF%B8%8F%20Stream%20Full%201080p%20Video-With%20Audio%20Narration-E11D48?style=for-the-badge&logo=youtube&logoColor=white" alt="Stream Video" />
+</a>
+
+</div>
+
 > [!TIP]
-> **🎥 Watch the Full 90-Second 1080p Video Walkthrough:**
-> [Click here to open `final_ai_data_toolkit_demo.mp4`](final_ai_data_toolkit_demo.mp4) — includes the cinematic AI intro hook, live batch extraction terminal logs, dynamic formula Excel spreadsheet inspection, and commercial pricing tiers.
+> **🎥 Full 90-Second 1080p Video Walkthrough:**
+> - **Direct Stream / Play:** [**`final_ai_data_toolkit_demo.mp4` (Release v1.0.0)**](https://github.com/amanpratap1999/ai-data-toolkit/releases/download/v1.0.0/final_ai_data_toolkit_demo.mp4) — includes the cinematic AI intro hook, live batch extraction terminal logs, dynamic formula Excel spreadsheet inspection, and commercial pricing tiers.
+> - **Word-for-Word Script:** [**`docs/DEMO_SCRIPT.md`**](docs/DEMO_SCRIPT.md).
 
 ## 💼 Why Clients Hire This Pipeline
 
