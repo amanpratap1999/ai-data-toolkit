@@ -249,6 +249,12 @@ python clean_scraped_data.py samples/raw_business_leads_3.txt
 *Generates `output/clean_leads_raw_business_leads_3.xlsx` (with `A8` freeze panes and AutoFilters) and `output/clean_leads_raw_business_leads_3.csv` ready for HubSpot or Apollo upload.*
 </details>
 
+### 4. Run Automated Quality Gate & Memory Tests
+```bash
+python -m unittest tests/test_suite.py
+```
+*Validates 100% test passing across all formulas, deduplication, and asserts memory consumption remains strictly under 10MB.*
+
 ---
 
 ## 📁 Repository Structure
@@ -256,6 +262,7 @@ python clean_scraped_data.py samples/raw_business_leads_3.txt
 ```
 ai-data-toolkit/
 ├── assets/
+│   ├── demo_walkthrough.gif    # Direct inline animated live demo player
 │   └── hero-banner.svg         # Modern vector visual hero header
 ├── core/
 │   ├── client.py               # Cloud inference client with exponential backoff retry
@@ -263,6 +270,13 @@ ai-data-toolkit/
 │   ├── exporter.py             # OpenPyXL engine with live dynamic formulas & batch KPI register
 │   ├── lead_schema.py          # Pydantic lead models with auto phone & domain enrichment
 │   └── lead_exporter.py        # Excel lead directory with AutoFilter, freeze panes & CRM CSV
+├── onboarding/                 # Standardized Client Agreements & Handover Templates
+│   ├── CLIENT_AGREEMENT.md     # 1-page plain English freelance service agreement
+│   ├── INTAKE_QUESTIONNAIRE.md # 5-question intake form with 1-file proof guarantee
+│   ├── PAYPAL_INVOICE_GUIDE.md # Dispute-resistant PayPal invoice templates
+│   └── HANDOVER_CHECKLIST.md   # Final delivery checklist & monthly retainer pitch
+├── tests/
+│   └── test_suite.py           # End-to-end regression & 8GB RAM safety test suite
 ├── samples/
 │   ├── raw_invoice_1.txt       # B2B Freight logistics invoice ($5,130.14)
 │   ├── raw_invoice_2.txt       # Tech cybersecurity invoice ($13,725.00)
@@ -274,7 +288,8 @@ ai-data-toolkit/
 │   ├── clean_leads_raw_business_leads_3.xlsx
 │   └── clean_leads_raw_business_leads_3.csv
 ├── docs/
-│   └── BEFORE_AFTER.md         # Detailed visual transformation guide
+│   ├── BEFORE_AFTER.md         # Detailed visual transformation guide
+│   └── DEMO_SCRIPT.md          # 90-second video demo script
 ├── requirements.txt            # Minimal dependencies (<45MB RAM footprint)
 ├── .env.example                # Configuration template
 ├── extract_invoice.py          # Invoice extraction CLI
@@ -295,8 +310,10 @@ Need custom extraction or scraping automation for your business? I build and mai
 | **Pipeline Pro** | **$50** | • Batch ingestion runner with Master KPI Register<br>• Automated phone/email sanitization & domain enrichment<br>• CRM-ready CSV export (HubSpot, Apollo, Salesforce)<br>• Automated multi-key deduplication | **24–48 Hours** |
 | **Monthly Retainer** | **$100 / mo** | • Ongoing maintenance & schema updates for evolving data formats<br>• Weekly or on-demand batch runs executed for your team<br>• Priority bug fixes & Slack/Email support | **Ongoing** |
 
-### 🛡️ The 1-File Risk-Free Guarantee
+### 🛡️ The 1-File Risk-Free Guarantee & Transparent Process
 > **Test before you pay:** Send me **1 sample invoice, PDF, or messy scrape snippet**. I will extract it and send back the structured Excel sheet for your review. If the output doesn't match your exact specifications, you owe nothing.
+>
+> 📄 Read our [Client Service Agreement](onboarding/CLIENT_AGREEMENT.md) • 📋 View our [Intake Questionnaire](onboarding/INTAKE_QUESTIONNAIRE.md)
 
 ### 📬 Get In Touch
 * **Email:** [amanpratapsingh1999@gmail.com](mailto:amanpratapsingh1999@gmail.com)

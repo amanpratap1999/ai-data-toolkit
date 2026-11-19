@@ -13,6 +13,7 @@ venv/
 
 # Local run outputs
 output/
+tests/test_outputs/
 
 # Media scratch files
 intro_clip.mp4
