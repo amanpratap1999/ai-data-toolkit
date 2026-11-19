@@ -9,6 +9,7 @@
 [![RAM Footprint](https://img.shields.io/badge/RAM%20Footprint-%3C45MB-00C875?style=flat-square&logo=speedtest&logoColor=white)](https://github.com/amanpratap1999/ai-data-toolkit)
 [![Excel Output](https://img.shields.io/badge/Spreadsheets-Live%20Formulas-107C41?style=flat-square&logo=microsoftexcel&logoColor=white)](https://github.com/amanpratap1999/ai-data-toolkit)
 [![CRM Ready](https://img.shields.io/badge/CRM%20Export-HubSpot%20%7C%20Apollo-FF7A59?style=flat-square&logo=hubspot&logoColor=white)](https://github.com/amanpratap1999/ai-data-toolkit)
+[![Demo Video](https://img.shields.io/badge/Demo%20Video-Watch%2090s%20Walkthrough-E11D48?style=flat-square&logo=youtube&logoColor=white)](final_ai_data_toolkit_demo.mp4)
 [![Delivery Speed](https://img.shields.io/badge/Delivery-24h%20Turnaround-0284C7?style=flat-square&logo=clock&logoColor=white)](mailto:amanpratapsingh1999@gmail.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-gray?style=flat-square)](LICENSE)
 
@@ -18,12 +19,17 @@
   <a href="#-key-features">Key Features</a> •
   <a href="#-visual-before--after-showcase">Before &amp; After</a> •
   <a href="#-quickstart-in-60-seconds">60s Quickstart</a> •
-  <a href="#-commercial-services--hire-me">Commercial Services</a>
+  <a href="#-commercial-services--hire-me">Commercial Services</a> •
+  <a href="final_ai_data_toolkit_demo.mp4"><b>▶️ Watch Video (90s)</b></a>
 </p>
 
 ---
 
 </div>
+
+> [!TIP]
+> **🎥 Watch the Full 90-Second 1080p Video Walkthrough:**
+> [Click here to open `final_ai_data_toolkit_demo.mp4`](final_ai_data_toolkit_demo.mp4) — includes the cinematic AI intro hook, live batch extraction terminal logs, dynamic formula Excel spreadsheet inspection, and commercial pricing tiers.
 
 ## 💼 Why Clients Hire This Pipeline
 

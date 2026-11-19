@@ -14,6 +14,13 @@ venv/
 # Local run outputs
 output/
 
+# Media scratch files
+intro_clip.mp4
+test_render.mp4
+voiceover.mp3
+temp_frames/
+temp_segments/
+
 # Ignore loose spreadsheets but preserve portfolio showcase and samples
 *.xlsx
 *.csv
